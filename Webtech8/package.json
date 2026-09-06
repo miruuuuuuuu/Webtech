@@ -1,0 +1,10 @@
+{
+  "name": "node-server-lab",
+  "version": "1.0.0",
+  "description": "Node.js Home/About server with request logging and 404 handling",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
